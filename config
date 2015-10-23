@@ -14,5 +14,5 @@
     "plugins/vis_types/index",
     "plugins/visualize/index"
   ],
-  "elasticsearch": "https://elastic.ddracenet.work:443/"
+  "elasticsearch": "https://elastic-ddracelogs.rhcloud.com:443/"
 }
