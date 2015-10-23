@@ -14,5 +14,5 @@
     "plugins/vis_types/index",
     "plugins/visualize/index"
   ],
-  "elasticsearch": "https://elastic-ddracelogs.rhcloud.com:443/"
+  "elasticsearch": "https://admin@elastic-ddracelogs.rhcloud.com/"
 }
